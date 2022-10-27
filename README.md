@@ -1,5 +1,5 @@
 # About Me:
-:man_student: Undergrad in cybersecurity
+:man_student: Undergrad in cybersecurity (3rd year)
 <br>:books: Want to learn coding, ethical hacking and more security related subjects </br> 
 
 
