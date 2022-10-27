@@ -1,10 +1,20 @@
 # About Me:
+:man_student: Undergrad in cybersecurity
+<br>:books: Want to learn coding, ethical hacking and more security related subjects </br> 
 
-## Socials:
+
+# Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/)
 
-## Tech Stack:
+# Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+<!--
+Want these as well... DIY style
+![Java]
+![Python]
+![C]
+-->
