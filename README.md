@@ -1,5 +1,6 @@
 # About Me:
-:man_student: Undergrad in cybersecurity (3rd year)
+:wave: Hi, my name is Kristian <br>
+<br>:man_student: Undergrad in cybersecurity (3rd year)</br>
 <br>:books: Want to learn coding, ethical hacking and more security related subjects </br> 
 
 
