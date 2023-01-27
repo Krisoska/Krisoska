@@ -1,7 +1,7 @@
 # About Me:
 :wave: Hi, my name is Kristian <br>
 <br>:man_student: Undergrad in cybersecurity (3rd year)</br>
-<br>:books: Want to learn coding, ethical hacking and more security related subjects </br> 
+<br>:books: Learning to code, ethical hacking and more security related subjects </br> 
 
 # Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/)
